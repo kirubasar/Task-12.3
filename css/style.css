@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(219, 213, 213);
+}
+
+#title{
+    background-color: rgb(228, 200, 163);
+    padding: 4px;
+}
+.card {
+    width: 350px !important;
+    height: 245px !important;
+    text-align: center;
+    padding: 5px;
+    border: 5px;
+    background-color: hsl(315, 82%, 82%) !important;
+    font-size: medium;
+    font-style: oblique;
+}
+.card:hover{
+    box-shadow: 0 10px 15px 0 #47637c;
+}
+.card-text{
+    color: rgb(64, 8, 162);
+}
